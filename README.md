@@ -57,7 +57,7 @@ I love experimenting with ideas and turning them into usable, real-time applicat
 | **Adaptive Learning Recommendation Framework** | React + FastAPI + scikit-learn (K-Means, Logistic Regression, collaborative filtering) |
 
 
-*(Swap these in for your actual repo links once you publish this!)*
+
 
 ---
 
